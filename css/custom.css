@@ -1,0 +1,12 @@
+.propfic {
+    height: 60px;
+    width: 60px;
+    padding: 5px;
+    border-radius: 50%; 
+    float: left;
+}
+
+.illustration {
+    height: auto;
+    width: 100%;
+}
